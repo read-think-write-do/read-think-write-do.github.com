@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[读书 思考 写作 行动]]></title>
+  <link href="http://read-think-write-do.github.com/atom.xml" rel="self"/>
+  <link href="http://read-think-write-do.github.com/"/>
+  <updated>2012-08-30T15:45:21+08:00</updated>
+  <id>http://read-think-write-do.github.com/</id>
+  <author>
+    <name><![CDATA[麦兜]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[my first blog]]></title>
+    <link href="http://read-think-write-do.github.com/blog/2012/08/30/my-first-blog/"/>
+    <updated>2012-08-30T14:18:00+08:00</updated>
+    <id>http://read-think-write-do.github.com/blog/2012/08/30/my-first-blog</id>
+    <content type="html"><![CDATA[<h1>First blog</h1>
+
+<p>这是第一篇blog，谢谢！</p>
+
+<ul>
+<li>好事多磨</li>
+<li>终于发表了</li>
+</ul>
+
+
+<blockquote><p>知行合一。</p></blockquote>
+
+<h2>中文的问题</h2>
+
+<ol>
+<li>中文的标题，需要修改CSS中的font-family</li>
+</ol>
+
+
+<p>[Octopress Windows ] (http://chen.yanping.me/cn/blog/2011/12/26/octopress-on-windows/)
+[开始使用 Markdown] (http://ued.taobao.com/blog/2012/07/03/getting-started-with-markdown)</p>
+]]></content>
+  </entry>
+  
+</feed>
