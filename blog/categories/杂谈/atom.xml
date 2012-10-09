@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[读书&bull;思考&bull;写作&bull;行动]]></title>
-  <link href="http://read-think-write-do.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 杂谈 | 读书&bull;思考&bull;写作&bull;行动]]></title>
+  <link href="http://read-think-write-do.github.com/blog/categories/杂谈/atom.xml" rel="self"/>
   <link href="http://read-think-write-do.github.com/"/>
   <updated>2012-10-09T08:50:15+08:00</updated>
   <id>http://read-think-write-do.github.com/</id>
